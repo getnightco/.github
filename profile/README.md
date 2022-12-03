@@ -5,4 +5,4 @@ We are excited to announce that we will be launching in **3 cities** starting in
 
 If you are interested in bringing **Night** to your city, please contact us at **[gov@getnight.co](mailto:gov@getnight.co)** to learn more about our technology and how it can benefit your community. We look forward to speaking with you and answering any questions you may have. Join the ranks of cities across the country who have already expressed interest in our program and trust in the potential of technology to improve city safety and security.
 
-**Copyright 2021 Night. All rights reserved.**
+**Copyright 2022 Night. All rights reserved.**
